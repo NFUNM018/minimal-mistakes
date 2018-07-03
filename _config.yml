@@ -106,7 +106,7 @@ author:
   bio              : "中山大学南方学院 文学与传媒学院"
   location         : "广东-广州"
   email            :
-  uri              :"https://gitee.com/NFUNM018/"
+  uri              : "https://gitee.com/NFUNM018"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :"NFUM018"
+  github           : "NFUNM018"
   gitlab           :
   google_plus      :
   keybase          :
