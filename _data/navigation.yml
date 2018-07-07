@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "简书"
-    url: https://www.jianshu.com/u/d4cb837c751a
+    url: https://www.jianshu.com/u/20ed81580b2b
   - title: "SVG制作"
     url: /svg/
   - title: "界面设计"
-    url: /year-archive/
+    url: /design/#界面设计
   - title: "平面设计"
-    url: /year-archive/
+    url: /design/#平面设计
   - title: "About"
     url: /about/
   - title: "Quick-Start Guide"
