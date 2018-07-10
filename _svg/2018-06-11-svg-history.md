@@ -1,16 +1,24 @@
 ---
 title:  "svg的历史"
-modified: 2018-06-12T16:03:49-04:00
 categories: 
-  - 网页设计
+  - svg制作
 tags:
   - svg
 classes: wide
+excerpt: "svg的历史"
+header:
+  overlay_image: /image/camera.jpg
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# cta_label: "More Info"
+# cta_url: "https://unsplash.com"
+sidebar:
+  nav: "docs"
 ---
-
 {% include base_path %}
 
-{% include toc title="Getting Started" %}
+{% include toc title="目录" %}
+
+
 
 SVG允许在代码中使用矢量点来描述二维图像。  
 
