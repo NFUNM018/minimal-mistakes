@@ -35,3 +35,9 @@ sidebar:
 
 
 然后我们便成功将字体更换了。
+
+
+而我们只需要在markdown文章的头部添加一行“classes: wide”便可以使文章的内容向右延展。
+
+
+![文字排列.png](https://upload-images.jianshu.io/upload_images/9467429-860d680a26d8fb0e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
