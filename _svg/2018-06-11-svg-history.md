@@ -1,23 +1,9 @@
 ---
 title:  "svg的历史"
-categories: 
-  - 网页设计
-tags:
-  - svg
-classes: wide
-excerpt: "SVG允许在代码中使用矢量点来描述二维图像，相比位图具有特殊优势"
-header:
-  overlay_image: /image/camera.jpg
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-# cta_label: "More Info"
-# cta_url: "https://unsplash.com"
-sidebar:
-  nav: "docs"
+
 ---
 
-{% include base_path %}
 
-{% include toc title="目录" %}
 
 SVG允许在代码中使用矢量点来描述二维图像。  
 
