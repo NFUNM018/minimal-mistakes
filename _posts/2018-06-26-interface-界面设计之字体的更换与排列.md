@@ -7,7 +7,7 @@ tags:
   - 笔记  
 classes: wide
 header:
-  overlay_image: /image/camera.jpg 
+  overlay_image: /image/interface.jpg 
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 #  cta_label: "More Info" 
 #  cta_url: "https://unsplash.com"
