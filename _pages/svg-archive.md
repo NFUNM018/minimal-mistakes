@@ -2,7 +2,7 @@
 layout: archive
 title: "SVG"
 permalink: /svg/
-author_profile: false
+author_profile: flase
 ---
 
 {% include base_path %}
